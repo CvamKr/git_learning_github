@@ -76,7 +76,8 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.display1,
             ),
             Text('new text'),
-            Text('new text 2')
+            Text('new text 2'),
+            Text('new text 3')
           ],
         ),
       ),
