@@ -79,7 +79,8 @@ class _MyHomePageState extends State<MyHomePage> {
             Text('new text 2'),
             Text('new text 3.'),
             Text('event text'),
-            Text('event text2')
+            Text('event text2'),
+            Text('event text3'),
           ],
         ),
       ),
