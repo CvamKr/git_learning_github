@@ -85,6 +85,8 @@ class _MyHomePageState extends State<MyHomePage> {
             Text('new text 5.'),
             Text('text added by satyam'),
 
+                        Text('text 2 added by satyam'),
+
 
           ],
         ),
